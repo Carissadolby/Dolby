@@ -1,5 +1,5 @@
 /**
-* Template Name: Arsha
+* Templte Name: Arsha
 * Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
@@ -44,7 +44,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #37517e;
+  background: #826fd5;
 }
 
 #preloader:before {
@@ -387,7 +387,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #37517e;
+  background: #3c8093;
 }
 
 #hero .container {
@@ -467,7 +467,7 @@ h6 {
   }
 
   #hero .hero-img img {
-    width: 50%;
+    width: 70px;
   }
 }
 
